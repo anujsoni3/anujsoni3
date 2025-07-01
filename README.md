@@ -1,3 +1,17 @@
+<p align="center">
+  <strong>👋 Hello, I'm Anuj!</strong><br>
+  🎯 Full Stack Developer | ☁️ Cloud & Web Enthusiast | 🎓 B.Tech @ IIIT Nagpur (CSD 2023–2027)
+</p>
+
+### 💫 About Me:
+🔭 I'm currently working on<br>Building scalable full-stack applications and contributing to open-source projects as a Software Development Intern at NHPC Limited.<br><br>🤝 I'm looking to collaborate on<br>AI-powered web applications, civic-tech tools, or innovative hackathon projects that solve real-world problems.<br><br>🧠 I'm looking for help with<br>Advanced backend architecture, cloud deployment strategies, and ML model optimization for production environments.<br><br>🌱 I'm currently learning<br>Advanced system design, cloud technologies, and exploring new frameworks for better development practices.<br><br>💬 Ask me about<br>Flask, Node.js, MongoDB, PostgreSQL, Python automation, or my experience building voice-controlled applications.<br><br>⚡ Fun fact<br>I built a voice-controlled auction platform and developed GUI-based backup management systems during my internship!
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-soni-2387b5291/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:soni3anuj@gmail.com)
+
+
+
 ## 💼 Professional Experience:
 ### Software Development Intern @ NHPC Limited 
 *May 2025 – Present | Faridabad, India*
@@ -11,12 +25,6 @@
 - 🎯 Organized industry sessions with leading tech professionals and entrepreneurs
 - 📊 Managed corporate relations and event coordination#
 
-### 💫 About Me:
-🔭 I'm currently working on<br>Building scalable full-stack applications and contributing to open-source projects as a Software Development Intern at NHPC Limited.<br><br>🤝 I'm looking to collaborate on<br>AI-powered web applications, civic-tech tools, or innovative hackathon projects that solve real-world problems.<br><br>🧠 I'm looking for help with<br>Advanced backend architecture, cloud deployment strategies, and ML model optimization for production environments.<br><br>🌱 I'm currently learning<br>Advanced system design, cloud technologies, and exploring new frameworks for better development practices.<br><br>💬 Ask me about<br>Flask, Node.js, MongoDB, PostgreSQL, Python automation, or my experience building voice-controlled applications.<br><br>⚡ Fun fact<br>I built a voice-controlled auction platform and developed GUI-based backup management systems during my internship!
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-soni-2387b5291/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:soni3anuj@gmail.com)
 
 
 ## 🏆 Coding Profiles:
