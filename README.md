@@ -6,7 +6,8 @@
 </p>
 <!-- ------------------------------------- -->
 
-### 💫 About Me:
+## 💫 About Me:
+<!-- ------------------------------------- -->
 🔭 I'm currently working on<br>Building scalable full-stack applications and contributing to open-source projects as a Software Development Intern at NHPC Limited.<br><br>🤝 I'm looking to collaborate on<br>AI-powered web applications, civic-tech tools, or innovative hackathon projects that solve real-world problems.<br><br>🧠 I'm looking for help with<br>Advanced backend architecture, cloud deployment strategies, and ML model optimization for production environments.<br><br>🌱 I'm currently learning<br>Advanced system design, cloud technologies, and exploring new frameworks for better development practices.<br><br>💬 Ask me about<br>Flask, Node.js, MongoDB, PostgreSQL, Python automation, or my experience building voice-controlled applications.<br><br>⚡ Fun fact<br>I built a voice-controlled auction platform and developed GUI-based backup management systems during my internship!
 
 ## 🌐 Socials:
