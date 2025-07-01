@@ -17,7 +17,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-soni-2387b5291/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:soni3anuj@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916307351024)
+
 
 ## 🏆 Coding Profiles:
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/soni3268k/)
@@ -143,9 +143,7 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=anujsoni3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💡 Weekly Development Breakdown:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ## 🎯 Current Goals:
 - 🏢 Excel in my Software Development Internship at NHPC Limited
@@ -155,18 +153,16 @@
 - 🌟 Contribute to open-source projects and help the developer community
 - 🎓 Maintain academic excellence while gaining industry experience
 
-## 📝 Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-## ☕ Support My Work:
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anujsoni3)
 
 ---
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anujsoni3&icon=0&color=0" alt="Profile Views" />
-  <br><br>
-  <b>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</b>
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/anujsoni3/count.svg" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! Let’s connect and build something amazing together 🚀</b>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
