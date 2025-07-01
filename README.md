@@ -1,7 +1,7 @@
 <!-- ---------- PROFILE HEADER ---------- -->
-<h1 align="center">👋 Hello, I'm Anuj!</h1>
+<h1 >👋 Hello, I'm Anuj!</h1>
 
-<p align="center">
+<p >
   🎯 <strong>Full‑Stack Developer</strong>&nbsp;|&nbsp;☁️ <strong>Cloud & Web Enthusiast</strong>&nbsp;|&nbsp;🎓 <strong>B.Tech @ IIIT Nagpur (CSD 2023–2027)</strong>
 </p>
 <!-- ------------------------------------- -->
@@ -35,18 +35,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/soni3anuj/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/muster_door_50)
 
-## 💼 Professional Experience:
-### Software Development Intern @ NHPC Limited 
-*May 2025 – Present | Faridabad, India*
-- 🔧 **Server Backup Management System**: Developed a Python GUI application for automated backup management with department-specific configurations and comprehensive logging
-- ⏰ **Script Scheduler**: Built a standalone Python scheduler with GUI using APScheduler and SQLAlchemy for real-time task tracking and visual management
-- 🛠️ **Tech Stack**: Python, Tkinter, APScheduler, SQLAlchemy, Git
-
-### Corporate Lead @ E-Summit 25
-*2024 | IIIT Nagpur*
-- 💼 Secured strategic sponsorships and partnerships for the entrepreneurship summit
-- 🎯 Organized industry sessions with leading tech professionals and entrepreneurs
-- 📊 Managed corporate relations and event coordination
 
 ## 🎯 Achievements & Certifications:
 - 🏆 **Finalist (Top 6)** - Genathon 2.0, IIIT Nagpur Hackathon 2024
