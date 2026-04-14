@@ -17,7 +17,7 @@
 ## 📄 Resume
 
 📌 View / Download my resume here:  
-👉 [Anuj Soni Resume](./Anuj_Soni_Resume.pdf)
+👉 [Anuj Soni Resume](./Anuj-Soni_Resume.pdf)
 
 
 ## 💼 Professional Experience:
