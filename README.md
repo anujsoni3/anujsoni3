@@ -2,7 +2,7 @@
 <h1 >👋 Hello, I'm Anuj!</h1>
 
 <p >
-  🎯 <strong>Full‑Stack Developer</strong>&nbsp;|&nbsp;☁️ <strong>Cloud & Web Enthusiast</strong>&nbsp;|&nbsp;🎓 <strong>B.Tech @ IIIT Nagpur (CSD 2023–2027)</strong> &nbsp; |&nbsp;🔗 <strong>https://anuj-soni.vercel.app/</strong>
+  🎯 <strong>Full‑Stack Developer</strong>&nbsp;|&nbsp;☁️ <strong>Cloud & Web Enthusiast</strong>&nbsp;|&nbsp;🎓 <strong>B.Tech @ IIIT Nagpur (CSD 2023–2027)</strong> &nbsp; |&nbsp;🔗 <strong>https://www.anujsoni.me/</strong>
 </p>
 <!-- ------------------------------------- -->
 
