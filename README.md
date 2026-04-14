@@ -14,6 +14,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-soni-2387b5291/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:soni3anuj@gmail.com)
 
+## 📄 Resume
+
+📌 View / Download my resume here:  
+👉 [Anuj Soni Resume](./Anuj_Soni_Resume.pdf)
 
 
 ## 💼 Professional Experience:
